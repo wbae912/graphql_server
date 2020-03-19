@@ -13,4 +13,4 @@ Introduction to learning GraphQL. Setup basic server in order to perform POST re
 7. ```cd src/```
 
 
-NOTE: Use node src/index.js in order to run server
+NOTE: Use ```node src/index.js``` in order to run server
